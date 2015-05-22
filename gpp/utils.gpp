@@ -1,0 +1,4 @@
+<#define tmpl|<#exec erb|#1>>
+<#define time|<#tmpl tmpls/time.erb>>
+<#define json|<#exec bin/jqw|#1 #2>>
+<#define plot|<#exec bin/plot|#1>>

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+d=$(date '+%Y-%m-%d_%T_%N')
+gnuplot $@ >| "plotimg-$d.png"
+
+echo "![](plotimg-$d.png)"
