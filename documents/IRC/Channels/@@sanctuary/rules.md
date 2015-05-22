@@ -22,5 +22,5 @@ author: Zack Piper
 - Fri May 22 23:15:33 UTC 2015: Accepted as rules, per:
 
 ```
-(231533)     @janicez │ CaveJohnson: accepted!
+(231533)     @janicez | CaveJohnson: accepted!
 ```
