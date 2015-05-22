@@ -10,8 +10,8 @@ author: Zack Piper
 
 2. **Be respectful**
    - **No discrimination**
-    - Racism
-    - Transphobia
-    - Homophobia
-    - Sexism
-    - etc
+       - Racism
+       - Transphobia
+       - Homophobia
+       - Sexism
+       - etc
