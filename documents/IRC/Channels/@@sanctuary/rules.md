@@ -9,12 +9,12 @@ author: Zack Piper
     - If somebody is asking you to stop saying something to them, do so, they're obviously considering it too offensive.
 
 2. **Be respectful**
-   - **No discrimination**
-       - Racism
-       - Transphobia
-       - Homophobia
-       - Sexism
-       - etc
+    - **No discrimination**
+        - Racism
+        - Transphobia
+        - Homophobia
+        - Sexism
+        - etc
 
 
 # History
